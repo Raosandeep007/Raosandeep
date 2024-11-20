@@ -2,7 +2,6 @@
 
 import React from "react";
 import { motion } from "framer-motion";
-import { Github, Linkedin, Mail, Twitter } from "lucide-react";
 import Avatar from "@/public/avatar.png";
 import Image from "next/image";
 import { ModeToggle } from "./ThemeSwitcher";

@@ -1,11 +1,10 @@
 "use client";
 
-import { motion } from "framer-motion";
-import { Github, Linkedin, Mail, Code2, Terminal, Cpu } from "lucide-react";
-import Image from "next/image";
 import raoImage from "@/public/rao.jpeg";
+import { motion } from "framer-motion";
+import { Code2, Cpu, Terminal } from "lucide-react";
+import Image from "next/image";
 import { contactInfo } from "./Contact";
-import { Fragment } from "react";
 
 export default function Hero() {
   return (
